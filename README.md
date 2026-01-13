@@ -1,3 +1,3 @@
 # business-analysis_sales-_-Activity-Overview
-# ลิงก์Power Bi
-#https://app.powerbi.com/view?r=eyJrIjoiOTJmZTY1ZDYtNzI1My00ZjBiLWJjZTMtMDViMjNkOGRiODdhIiwidCI6IjQzZDNlNWRmLTU2ZDItNGI3NS05MDI4LTE3ZDM0NzY0ZDFhMCIsImMiOjEwfQ%3D%3D&pageName=6f599e761491a2bad50b
+ลิงก์Power Bi
+https://app.powerbi.com/view?r=eyJrIjoiOTJmZTY1ZDYtNzI1My00ZjBiLWJjZTMtMDViMjNkOGRiODdhIiwidCI6IjQzZDNlNWRmLTU2ZDItNGI3NS05MDI4LTE3ZDM0NzY0ZDFhMCIsImMiOjEwfQ%3D%3D&pageName=6f599e761491a2bad50b
