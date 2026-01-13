@@ -1,0 +1,5 @@
+CustomerID,PhoneNumber,Email
+C001,0811111111,alice@example.com
+C002,0822222222,bob@example.com
+C003,0833333333,carol@example.com
+C004,0844444444,david@example.com

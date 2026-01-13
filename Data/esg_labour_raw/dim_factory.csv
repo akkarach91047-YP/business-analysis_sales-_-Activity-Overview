@@ -1,0 +1,6 @@
+factory_id,factory_name,region,country,latitude,longitude
+F001,Bangkok Electronics Plant,Central,Thailand,13.7563,100.5018
+F002,Rayong Automotive Plant,East,Thailand,12.7075,101.1474
+F003,Hanoi Textile Plant,North,Vietnam,21.0285,105.8544
+F004,Jakarta Electronics Plant,West,Indonesia,-6.2088,106.8456
+F005,Kuala Lumpur Automotive Plant,Central,Malaysia,3.139,101.6869

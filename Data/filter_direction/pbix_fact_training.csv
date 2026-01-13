@@ -1,0 +1,101 @@
+training_id,employee_id,training_topic,training_hours,training_date
+T001,E005,Safety,2,2024-01-13
+T002,E002,Labor Rights,2,2024-01-28
+T003,E010,Diversity & Inclusion,2,2024-01-22
+T004,E005,Fire Safety,4,2024-01-15
+T005,E008,Diversity & Inclusion,3,2024-01-25
+T006,E004,Diversity & Inclusion,3,2024-01-20
+T007,E009,Diversity & Inclusion,4,2024-01-04
+T008,E005,Labor Rights,3,2024-01-16
+T009,E003,Fire Safety,1,2024-01-19
+T010,E006,Diversity & Inclusion,3,2024-01-30
+T011,E010,Fire Safety,4,2024-01-12
+T012,E004,Diversity & Inclusion,4,2024-01-02
+T013,E001,Safety,2,2024-01-19
+T014,E002,Fire Safety,2,2024-01-10
+T015,E001,Compliance,2,2024-01-04
+T016,E001,Labor Rights,1,2024-01-12
+T017,E009,Fire Safety,4,2024-01-28
+T018,E002,Fire Safety,2,2024-01-09
+T019,E010,Labor Rights,1,2024-01-05
+T020,E004,Diversity & Inclusion,2,2024-01-12
+T021,E006,Compliance,2,2024-01-10
+T022,E009,Labor Rights,4,2024-01-29
+T023,E006,Diversity & Inclusion,4,2024-01-22
+T024,E009,Labor Rights,1,2024-01-23
+T025,E009,Compliance,1,2024-01-02
+T026,E003,Diversity & Inclusion,2,2024-01-19
+T027,E002,Safety,4,2024-01-01
+T028,E006,Safety,1,2024-01-08
+T029,E007,Diversity & Inclusion,2,2024-01-18
+T030,E010,Safety,4,2024-01-12
+T031,E007,Labor Rights,2,2024-01-19
+T032,E009,Labor Rights,4,2024-01-20
+T033,E005,Fire Safety,2,2024-01-27
+T034,E001,Safety,2,2024-01-10
+T035,E002,Diversity & Inclusion,4,2024-01-13
+T036,E010,Labor Rights,2,2024-01-17
+T037,E010,Diversity & Inclusion,1,2024-01-06
+T038,E003,Diversity & Inclusion,1,2024-01-14
+T039,E008,Safety,3,2024-01-11
+T040,E004,Diversity & Inclusion,4,2024-01-01
+T041,E003,Fire Safety,2,2024-01-12
+T042,E010,Compliance,3,2024-01-01
+T043,E003,Compliance,1,2024-01-05
+T044,E006,Fire Safety,4,2024-01-10
+T045,E004,Diversity & Inclusion,2,2024-01-29
+T046,E009,Fire Safety,1,2024-01-11
+T047,E002,Labor Rights,3,2024-01-25
+T048,E002,Diversity & Inclusion,3,2024-01-11
+T049,E001,Labor Rights,1,2024-01-11
+T050,E005,Safety,4,2024-01-16
+T051,E001,Diversity & Inclusion,3,2024-01-05
+T052,E001,Labor Rights,3,2024-01-25
+T053,E002,Compliance,4,2024-01-28
+T054,E008,Diversity & Inclusion,3,2024-01-25
+T055,E001,Compliance,1,2024-01-29
+T056,E001,Diversity & Inclusion,3,2024-01-08
+T057,E010,Labor Rights,4,2024-01-27
+T058,E001,Compliance,1,2024-01-14
+T059,E005,Compliance,1,2024-01-23
+T060,E008,Safety,2,2024-01-16
+T061,E009,Fire Safety,1,2024-01-30
+T062,E004,Fire Safety,2,2024-01-20
+T063,E004,Safety,1,2024-01-15
+T064,E009,Fire Safety,4,2024-01-21
+T065,E001,Compliance,4,2024-01-14
+T066,E009,Labor Rights,1,2024-01-22
+T067,E003,Compliance,1,2024-01-05
+T068,E010,Labor Rights,1,2024-01-10
+T069,E005,Compliance,4,2024-01-03
+T070,E007,Safety,2,2024-01-14
+T071,E001,Safety,1,2024-01-29
+T072,E005,Diversity & Inclusion,3,2024-01-16
+T073,E007,Fire Safety,3,2024-01-23
+T074,E005,Labor Rights,4,2024-01-08
+T075,E006,Fire Safety,1,2024-01-10
+T076,E008,Labor Rights,3,2024-01-03
+T077,E005,Diversity & Inclusion,1,2024-01-16
+T078,E001,Diversity & Inclusion,4,2024-01-16
+T079,E005,Compliance,3,2024-01-17
+T080,E004,Fire Safety,1,2024-01-26
+T081,E008,Fire Safety,2,2024-01-18
+T082,E003,Compliance,4,2024-01-03
+T083,E001,Safety,4,2024-01-12
+T084,E001,Compliance,2,2024-01-20
+T085,E008,Fire Safety,4,2024-01-17
+T086,E004,Fire Safety,4,2024-01-26
+T087,E004,Compliance,4,2024-01-15
+T088,E002,Compliance,4,2024-01-14
+T089,E004,Fire Safety,3,2024-01-01
+T090,E004,Diversity & Inclusion,2,2024-01-17
+T091,E009,Diversity & Inclusion,3,2024-01-21
+T092,E009,Labor Rights,2,2024-01-14
+T093,E001,Safety,2,2024-01-21
+T094,E003,Diversity & Inclusion,2,2024-01-11
+T095,E009,Diversity & Inclusion,3,2024-01-30
+T096,E010,Compliance,4,2024-01-01
+T097,E008,Labor Rights,4,2024-01-28
+T098,E010,Labor Rights,1,2024-01-19
+T099,E003,Compliance,4,2024-01-23
+T100,E002,Compliance,2,2024-01-12
